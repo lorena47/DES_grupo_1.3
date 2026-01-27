@@ -1,8 +1,42 @@
-# Exposición Práctica 1
-[Presentación de la P1](https://drive.google.com/file/d/1YHx1VekloL4bVKuy9pr3w18x3_XbyDMg/view?usp=drive_web)
+# Alejandría: Una Biblioteca Virtual Social e Interactiva
 
-# Exposición Práctica2
-[Presentación de la P2](https://drive.google.com/file/d/1SBEE29810F4X_b3tcopG_eXr3jpBIQyA/view?usp=sharing)
+Este repositorio contiene el desarrollo del proyecto **Alejandría**, realizado para la asignatura Desarrollo y Evaluación de Sistemas Software Interactivos del Máster en Ingeniería Informática de la Universidad de Granada.
 
-# Exposición Práctica 3
-[Carpeta con presentaciones y vídeos demostrativos de las entregas 1 y 2 de la P3](https://drive.google.com/drive/folders/1uFoss4LmxxpELs_FjCdCugKyKr8dNfjm?usp=sharing)
+## 📖 Sobre el Proyecto
+
+**Alejandría** es una plataforma digital diseñada como un espacio moderno donde escritores noveles y lectores pueden encontrarse y compartir cultura de forma libre.
+
+### El Problema
+
+- **Dificultades editoriales**: Los escritores noveles suelen ser ignorados por editoriales que priorizan la rentabilidad.
+- **Falta de personalización**: Los lectores jóvenes carecen de plataformas que recomienden libros basados en emociones o estados de ánimo.
+- **Impacto local**: El dominio de grandes multinacionales perjudica a las librerías locales.
+
+### Nuestra Solución
+
+- **Publicación gratuita**: Posibilidad de subir novelas o fragmentos sin coste.
+- **Recomendaciones inteligentes**: Sistema basado en gustos y emociones, no solo en popularidad.
+- **Comunidad activa**: Reseñas y conexión entre lectores y escritores.
+- **Apoyo al comercio local**: Enlaces directos a librerías locales desde las obras.
+
+## 📂 Estructura del repositorio
+
+### Prácticas
+
+- **Practica1**: [Materiales y entregables de la Práctica 1](Practica1/DES_P1_GRUPO_1_3.pdf)
+- **Practica2**: [Materiales y entregables de la Práctica 2](Practica2/DES_P2_GRUPO_1_3.pdf)
+- **Practica3**:
+  - **Entrega 1**: [Materiales y entregables de la Entrega 1](Practica3/Entregables/entrega1/)
+  - **Entrega 2**: [Materiales y entregables de la Entrega 2](Practica3/Entregables/entrega2/)
+
+### Presentaciones
+
+- [Presentación de la Práctica 1](Practica1/presentacion.pdf)
+- [Presentación de la Práctica 2](Practica2/presentacion.pdf)
+- [Presentaciones de la Práctica 3](Practica3/Presentaciones/)
+
+## 👥 Equipo (Grupo 1.3)
+
+- **Carlota de la Vega Soriano**
+- **Lorena Castellano Fernández**
+- **Pablo García Alvarado**
