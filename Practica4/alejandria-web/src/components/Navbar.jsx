@@ -15,7 +15,7 @@ const Navbar = () => {
         </div>
 
         <a
-          href="https://www.figma.com/design/e9lt6KlPws5Ig7FWg7IQKz/Flujo_Alejandria---Digital---Final?node-id=2002-2&p=f&t=s7kVVDECuYtQxULM-0"
+          href="https://www.figma.com/proto/xHzQNbpoCi0e4Bx4CKGjU9/Flujo_Alejandria---Digital---Finalisimo?node-id=2002-62&p=f&t=Dw9bEDOEjmjhoiro-1&scaling=min-zoom&content-scaling=fixed&page-id=2002%3A2&starting-point-node-id=2002%3A62"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-slate-900 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-slate-800 transition shadow-lg shadow-slate-900/20"
