@@ -28,7 +28,7 @@ const Hero = () => {
         
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <motion.a
-            href="https://www.figma.com/design/xHzQNbpoCi0e4Bx4CKGjU9/Flujo_Alejandria---Digital---Finalisimo?node-id=2002-2&p=f&t=mJrPRqiJj0FjHjaf-0"
+            href="https://www.figma.com/proto/xHzQNbpoCi0e4Bx4CKGjU9/Flujo_Alejandria---Digital---Finalisimo?node-id=2002-62&p=f&t=GAII6chrdCTE9bXY-1&scaling=min-zoom&content-scaling=fixed&page-id=2002%3A2&starting-point-node-id=2002%3A62"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
