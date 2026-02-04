@@ -37,6 +37,7 @@ Este repositorio contiene el desarrollo del proyecto **Alejandría**, realizado 
 - [Presentación de la Práctica 1](Practica1/presentacion.pdf)
 - [Presentación de la Práctica 2](Practica2/presentacion.pdf)
 - [Presentaciones de la Práctica 3](Practica3/Presentaciones/)
+- [Presentaciones de la Práctica 4](Practica4/presentacion.pdf)
 
 ## 👥 Equipo (Grupo 1.3)
 
