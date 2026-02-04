@@ -78,6 +78,27 @@ Se puede ver el archivo [aquí](diagrama_conceptual/diagrama_contenidos.png).
   <img src="diagrama_conceptual/diagrama_contenidos.png" />
 </p>
 
+# Evaluaciones sobre el prorotipo a papel (compañeros = expertos)
+## Tabla 1: Relación entre evaluaciones y soluciones
+
+| Evaluación | Solución |
+|-----------|----------|
+| En la pantalla de login cuando le das a “olvidó mi contraseña” te lleva a la pantalla de registro, y además no te deja volver a iniciar sesión con otra cuenta diferente. | Hemos cambiado la descripción del enlace a “¿nuevo por aquí? Únete ahora”, y en el perfil del usuario hemos añadido el botón de cerrar sesión que te lleve a la pantalla de login. |
+| No se puede volver atrás en general. | Hemos añadido el típico icono de la flechita en las pantallas donde se requería (si es la pantalla principal de una sección, pues se debe pulsar otra sección para hacer otra actividad) y un botón para cancelar en los formularios. |
+| Algunas pantallas se ven muy cargadas, no muy limpias. | Hemos espaciado los elementos (libros) y reducido la cantidad mostrada. |
+| No se pueden buscar libros en la biblioteca, y con el paso del tiempo y uso de la aplicación puedes tener demasiados y querer buscar alguno concreto. | Se ha añadido una búsqueda general dentro de la propia biblioteca. |
+
+## Tabla 2: Propuestas y estado de implementación
+
+| Propuesta | Estado |
+|----------|--------|
+| Añadir el botón hacia atrás. | Aceptada y realizada. |
+| Incluir menos información en las pantallas para mayor claridad. | Aceptada y realizada. |
+| Poder indicar el estado de ánimo y buscar libros por género (por ejemplo, estar contento y buscar terror). | Aceptada y pendiente. En los filtros se distinguirá estado de ánimo y género del libro para realizar la búsqueda, aunque ahora en los bocetos solo se ve estado de ánimo. |
+| Reducir la carga visual. | Aceptada y realizada. |
+| Pantalla de búsqueda para filtrar los libros. | Aceptada y realizada. |
+
+
 # Bocetos
 Se pueden ver las imágenes [aquí](bocetos).
 ## Papel - Digital
