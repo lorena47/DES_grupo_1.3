@@ -153,7 +153,7 @@ Realizamos algunos cambios en el prototipo antes de hacer la evaluación a los u
 - Editamos los frames con formularios para que se puedan pulsar para simular rellenar los campos.
 - Añadimos realimentación para indicar que se completen dichos campos si se pretende continuar sin hacerlo o que determinadas operaciones han sido realizadas (al subir libro o ficha).
 - Editamos el frame del libro en detalle para incluir una opción para valorar, y añadimos un frame para poder simular la tarea.
-
+<p align = center>
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/digital/mejoras%20aplicadas/registro.png" width="200"/>
   <img src="bocetos/digital/mejoras%20aplicadas/login.png" width="200"/>
@@ -171,6 +171,7 @@ Realizamos algunos cambios en el prototipo antes de hacer la evaluación a los u
 
   <img src="bocetos/digital/mejoras%20aplicadas/valorar.png" style="width:200px; height:auto; flex-shrink:0; margin-left:30px;"/>
 </div>
+</p>
 
 ### Post-evaluación
 Durante las pruebas, se detectó que el significado de los iconos de estados de ánimo resultaba ambiguo para los participantes. Como solución, se ha incorporamos una etiqueta textual descriptiva debajo de cada componente gráfico. Esta medida reduce la carga cognitiva y garantiza que el usuario asocie correctamente el icono con la emoción deseada antes de realizar la selección.
