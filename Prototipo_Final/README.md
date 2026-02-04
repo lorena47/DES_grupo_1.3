@@ -84,29 +84,20 @@ Se pueden ver las imágenes [aquí](bocetos).
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%201.png" width="200"/>
   <img src="bocetos/digital/Frame%201.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%202.png" width="200"/>
   <img src="bocetos/digital/Frame%202.png" width="200"/>
 </div>
 <br>
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 0;">
-  <div style="display: flex; gap: 30px; flex-shrink: 0;">
-    <img src="bocetos/papel/Frame%203_1.png" width="200"/>
-    <img src="bocetos/papel/Frame%203_2.png" width="200"/>
-    <img src="bocetos/digital/Frame%203_1.png" width="200"/>
-  </div>
-
-  <img src="bocetos/digital/Frame%203_2.png" style="width:200px; height:auto; flex-shrink:0; margin-left:30px;"/>
+<div style="display: flex; justify-content: center; gap: 30px;">
+  <img src="bocetos/papel/Frame%203_1.png" width="200"/>
+  <img src="bocetos/papel/Frame%203_2.png" width="200"/>
+  <img src="bocetos/digital/Frame%203_1.png" width="200"/>
+  <img src="bocetos/digital/Frame%203_2.png" width="200"/>
 </div>
 <br>
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%204.png" width="200"/>
   <img src="bocetos/digital/Frame%204.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%205.png" width="200"/>
   <img src="bocetos/digital/Frame%205.png" width="200"/>
 </div>
@@ -120,19 +111,13 @@ Se pueden ver las imágenes [aquí](bocetos).
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%207.png" width="200"/>
   <img src="bocetos/digital/Frame%207.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
-  <img src="bocetos/papel/Frame%208.png" width="200"/>
-  <img src="bocetos/digital/Frame%208.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%209.png" width="200"/>
   <img src="bocetos/digital/Frame%209.png" width="200"/>
 </div>
 <br>
 <div style="display: flex; justify-content: center; gap: 30px;">
+  <img src="bocetos/papel/Frame%208.png" width="200"/>
+  <img src="bocetos/digital/Frame%208.png" width="200"/>
   <img src="bocetos/papel/Frame%2010.png" width="200"/>
   <img src="bocetos/digital/Frame%2010.png" width="200"/>
 </div>
@@ -140,9 +125,6 @@ Se pueden ver las imágenes [aquí](bocetos).
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%2011.png" width="200"/>
   <img src="bocetos/digital/Frame%2011.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%2012.png" width="200"/>
   <img src="bocetos/digital/Frame%2012.png" width="200"/>
 </div>
@@ -150,16 +132,10 @@ Se pueden ver las imágenes [aquí](bocetos).
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%2013.png" width="200"/>
   <img src="bocetos/digital/Frame%2013.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
   <img src="bocetos/papel/Frame%2014.png" width="200"/>
   <img src="bocetos/digital/Frame%2014.png" width="200"/>
-</div>
-<br>
-<div style="display: flex; justify-content: center; gap: 30px;">
-  <img src="bocetos/papel/Frame%2015.png" width="150"/>
-  <img src="bocetos/digital/Frame%2015.png" width="150"/>
+  <img src="bocetos/papel/Frame%2015.png" width="200"/>
+  <img src="bocetos/digital/Frame%2015.png" height="200"/>
 </div>
 
 ## Mejoras aplicadas
